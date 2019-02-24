@@ -27,5 +27,12 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+Our software is made to use, for the people who had keen interest in using edge technologies. 
+we don't want our products to be used to promote any brand.Our products may consist of some
+opensource tools or snippets,we really make ourselfs to adopt their privacy policies.
+
+
 -Adarshreddy Adelli
- Team vengix
+ ©Team vengix
+
+For queries or disputes write us to vengixlabs@gmail.com.
